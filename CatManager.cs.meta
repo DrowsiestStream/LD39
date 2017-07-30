@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2b8f7da4762b88b40a8b0adce43bfec7
+timeCreated: 1501427878
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - meow: {fileID: 8300000, guid: 3daa179ccced8b447bda979d7ef414af, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
